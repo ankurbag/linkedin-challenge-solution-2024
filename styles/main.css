@@ -32,16 +32,12 @@ h1 {
 }
 @media screen and (min-width: 768px) {
   .container {
-    /**
-    	TODO: Fix me
-    **/
+    flex-direction: row;
   }
 }
 @media screen and (min-width: 1024px) {
   .container {
-    /**
-    	TODO: Fix me
-    **/
+    flex-direction: row;
   }
 }
 
@@ -55,16 +51,12 @@ h1 {
 }
 @media screen and (min-width: 768px) {
   .profile-card {
-    /**
-    	TODO: Fix me
-    **/
+    width: 40vw;
   }
 }
 @media screen and (min-width: 1024px) {
   .profile-card {
-    /**
-    	TODO: Fix me
-    **/
+    width: 30vw;
   }
 }
 .profile-card__img {
